@@ -1,0 +1,9 @@
+Some of the features as per the design document couldnot be implemented owing to lack of time and complexity of features, namely:-
+
+1. Partial persistence could only be implemented
+2. A full sync instead of timestamp sync
+3. File updation couldn't be implemented
+
+Extra features:
+1. Registration of users
+2. Login mechanism
